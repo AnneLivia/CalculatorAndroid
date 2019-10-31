@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Calculator</string>
+    <string name="square_root_symbol">\u221a</string>
+    <string name="del_button">\u232b</string>
+    <string name="power2">x\u00B2</string>
+    <string name="plus_minus">\u207A\u2215\u208B</string>
+</resources>
