@@ -31,5 +31,5 @@ Calculator Android App that does the following operations:
 ## INTERFACE
    
 <p align="center">
-    <img src="https://ibb.co/chq0tzS" width="600" height="450""/>
+    <img src="https://i.ibb.co/xqZWGVt/Screenshot-20191116-011056.png" alt="Screenshot-20191116-011056" width="600" height="450""/>
    </p>
